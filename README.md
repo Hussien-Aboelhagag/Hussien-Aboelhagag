@@ -48,8 +48,15 @@ My passion lies in ensuring software quality through cutting-edge tools and fram
 
 📧 **Email**: [your.email@example.com](mailto:hussienaboelhagag49@gmail.com)  
 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hussien-el-ziat/))  
-📞 **Phone**: [+201129888329] 
 
 I believe in continuous learning and always strive to stay updated with the latest trends in software testing and automation.
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+<p align="center">
+            <strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!;Shoot+me+a+message+on+Linkedin;I'm+always+down+to+collab+:)" alt="Typing SVG">
+  </a></strong>
+</p>
+
